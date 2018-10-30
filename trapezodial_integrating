@@ -1,5 +1,5 @@
 '''
-Trapezoidal integration method
+Trapezoidal integrating method
 "fucntion" - fucntion for integration
 "range_1"  - lower range
 "range_2"  - upper range
